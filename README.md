@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello everyone, I'm Willyane but call me Willy or Aneuile!!
 
 <!--
-**Willy-correia/Willy-correia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Aneuile becames by Willy=uile is the same pronunciation and ane=the lest part of my name, so I put Ane-Willy = Aneuile :)
 -->
+- 🌱 I’m currently learning C#, UnityEngine 2D, JavaScript and Python
+- 🤔 I’m looking for help with Game Developer
+- 📫 How to reach me: Email- Willycorreiadac@gmai.com or Instagram- @Willy_aneuile 
+- 😄 Pronouns: She/Her
+
+<div>
+  <a href = "https://github.com/WillyCorreia">
+  <img hight = "180em" src = "https://github-readme-stats.vercel.app/api?username=WillyCorreia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img hight = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WillyCorreia&layout-compact&langs_count-16&theme=radical"/>
+</div>
