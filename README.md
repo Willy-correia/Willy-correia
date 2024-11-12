@@ -8,7 +8,7 @@ Aneuile becames by Willy=uile is the same pronunciation and ane=the lest part of
 
 <div>
   <a href="https://github.com/WillyCorreia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillyCorreia&theme=radical&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillyCorreia&layout=compact&langs_count=16&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillyCorreia&theme=dracula&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillyCorreia&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
